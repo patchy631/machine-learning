@@ -1,1 +1,3 @@
-# This repository carries notebooks of my twitter tutorials
+# 🔴 This repository carries notebooks of my twitter tutorials
+
+## Happy learning!! 🍻 
