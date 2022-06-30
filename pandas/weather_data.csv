@@ -1,0 +1,8 @@
+day,city,temperature,windspeed,event
+1/3/2022,new york,28,12,Snow
+1/3/2022,mumbai,87,15,Fog
+1/4/2022,new york,33,7,Sunny
+1/4/2022,mumbai,92,5,Rain
+1/1/2022,paris,45,20,Sunny
+1/2/2022,paris,50,13,Cloudy
+1/3/2022,paris,54,8,Cloudy
